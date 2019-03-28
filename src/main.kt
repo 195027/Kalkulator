@@ -10,7 +10,7 @@ class MyView: View() {
 
         override var root = vbox {
             hbox {
-                button("Press Me") {
+                button("drugi Me") {
                     action {
                         println("pressed!")
                     }
